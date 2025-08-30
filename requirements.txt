@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+joblib
+streamlit
+matplotlib
+
+
+xgboost
+lightgbm
+catboost
+openai>=1.40.0
+python-dotenv

@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtualenv
+.venv/
+venv/
+
+# Data & Models
+data/processed/*
+!data/processed/.gitkeep
+models/*
+!models/.gitkeep
+
+# Env
+.env
